@@ -27,7 +27,7 @@ The project that you are going to make is going to generate an [invoice](Invoice
 - As a user, I must be able to print a pdf of the generated invoice (without the present watermark of course)
 
 #### Project Instructions
-- Create a private repo named `eve-invoicer`
+- Create a private repo named `even-invoicer`
 - Update the README.md of your project to include any special instructions for us to run the project
 - Complete the project and add `even-devs` to the repo as a contributor
 - Share the repo link in the application
